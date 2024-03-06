@@ -1,7 +1,3 @@
-Certainly! Below is a template for your README.md that you can use for your GitHub repository. This template provides an overview, instructions for building and running your C++ LeetCode solutions, and additional sections you might find useful. You may adjust it as necessary to fit your project's specifics.
-
----
-
 # C++ LeetCode Solutions
 
 This repository contains my solutions to LeetCode problems, implemented in C++. Each problem solution is accompanied by proper unit tests to ensure correctness and efficiency. Every problem has its own directory under the problems folder, where the solution, its test file, and a CMakeLists.txt file for building the project can be found.
