@@ -4,7 +4,7 @@ Certainly! Below is a template for your README.md that you can use for your GitH
 
 # C++ LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems, implemented in C++. Each problem has its own directory under the `problems` folder, where the solution, a test file, and a `CMakeLists.txt` file for building the project can be found.
+This repository contains my solutions to LeetCode problems, implemented in C++. Each problem solution is accompanied by proper unit tests to ensure correctness and efficiency. Every problem has its own directory under the problems folder, where the solution, its test file, and a CMakeLists.txt file for building the project can be found.
 
 ## Getting Started
 
