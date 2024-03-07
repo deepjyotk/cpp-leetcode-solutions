@@ -32,20 +32,14 @@ To build and run a solution for a specific problem, follow these steps:
    cd problems/problem1
    ```
 
-2. **Generate Build System**
+2. **Build the Project**
 
-   Use CMake to generate the build system. This will create a `build` directory where all build-related files will be stored. This directory is ignored by Git.
-
-   ```
-   cmake -Bbuild
-   ```
-
-3. **Build the Project**
-
-   Next, navigate to the `build` directory and build the project.
+   Create `build` folder. Next, navigate to the `build` directory and build the project by running the below commands.
 
    ```
+   mkdir build
    cd build
+   cmake ..
    make
    ```
 
