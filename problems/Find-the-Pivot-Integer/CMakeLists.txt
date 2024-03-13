@@ -20,7 +20,7 @@ enable_testing()
 
 
 # include_directories(src)
-add_executable(main custom_sort_string_test.cpp custom_sort_string.cpp)
+add_executable(main main_test.cpp main.cpp)
 target_link_libraries(
     main
   GTest::gtest_main

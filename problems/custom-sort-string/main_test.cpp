@@ -1,4 +1,4 @@
-#include "custom_sort_string.h"
+#include "main.h"
 #include <gtest/gtest.h>
 
 TEST(CustomSortStringTest, BasicTest1) {
