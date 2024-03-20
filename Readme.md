@@ -55,8 +55,5 @@ To build and run a solution for a specific problem, follow these steps:
 
 Contributions to improve the solutions or to add new solutions are welcome. Please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is open-sourced under the [MIT License](LICENSE.md).
 
 ---
